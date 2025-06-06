@@ -1,6 +1,6 @@
 import arrow_icon from "./arrow_icon.svg";
 import arrow_icon_dull from "./arrow_icon_dull.svg";
-import logo_text from "./logo_text.svg";
+import logo_text from "./logo_text.png";
 import logo_trans from "./logo_trans.png";
 import menu_icon from "./menu_icon.svg";
 import search_icon from "./search_icon.svg";
